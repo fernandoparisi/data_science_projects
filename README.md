@@ -6,4 +6,4 @@ Proyectos desarrollados en Python, realizados como parte de la Diplomatura Super
 
 #2.Aprendizaje_Supervisado: Análisis de datos aplicando técnicas de aprendizaje supervisado de clasificación: Regresión Logistica, KKN, Árboles de decisión y Random Forest
 
-
+#3.Aprendizaje_No_Supervisado: Aplicación de la técnica de reducción de dimensionalidad PCA (Principal Component Analysis). Comparación con módelo de Regresión Logística (Aprendizaje Supervisado) utilizando todas las características y luego con las reducidas (tras EDA).
