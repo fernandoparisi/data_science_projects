@@ -10,4 +10,4 @@ Proyectos desarrollados en Python, realizados como parte de la Diplomatura Super
 
 #4.Redes_Neuronales: Aplicación de redes neuronales para clasificación binaria utilizando Keras. Se definieron modelos con capas densas, optimización con Adam y RMSprop, y evaluación de métricas como precisión, AUC y pérdida.
 
-#5.Deep_Learning_Computer_Vision: 
+#5.Deep_Learning_Computer_Vision: Aplicación de un modelo de Deep Learning para predecir la clasificación de imágenes de gatos y perros mediante Computer Vision. Se usó ImageDataGenerator para aumentar las imágenes, y un modelo CNN basado en Transfer Learning con MobileNetV2 para realizar la clasificación en dos clases.
