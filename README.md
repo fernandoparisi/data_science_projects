@@ -9,3 +9,5 @@ Proyectos desarrollados en Python, realizados como parte de la Diplomatura Super
 #3.Aprendizaje_No_Supervisado: Aplicación de la técnica de reducción de dimensionalidad PCA (Principal Component Analysis). Comparación con módelo de Regresión Logística (Aprendizaje Supervisado) utilizando todas las características y luego con las reducidas (tras EDA).
 
 #4.Redes_Neuronales: Aplicación de redes neuronales para clasificación binaria utilizando Keras. Se definieron modelos con capas densas, optimización con Adam y RMSprop, y evaluación de métricas como precisión, AUC y pérdida.
+
+#5.Deep_Learning_Computer_Vision: 
