@@ -1,13 +1,13 @@
-# data-science-projects
+# Data Science Projects - Phyton
 
-Proyectos desarrollados en Python, realizados como parte de la Diplomatura Superior en Data Science Aplicada de la UTN. Se utilizaron diferentes librerías tales como: numpy, pandas, matplotlib, seaborn, scikit-learn, keras, entre otras. 
+Projects developed in Python, carried out as part of the Advanced Diploma in Applied Data Science at the UTN. Various libraries were used, such as numpy, pandas, matplotlib, seaborn, scikit-learn, keras, among others.
 
-#1.EDA: Análisis exploratorio de datos acerca de los precios de diferentes tipos de alojamientos de Airbnb en los barrios de la ciudad de Buenos Aires.
+#1. Exploratory Data Analysis (EDA): Conducted an exploratory data analysis on Airbnb accommodation prices across various neighborhoods in Buenos Aires. Focused on identifying patterns, trends, and outliers to provide insights into pricing dynamics.
 
-#2.Aprendizaje_Supervisado: Análisis de datos aplicando técnicas de aprendizaje supervisado de clasificación: Regresión Logistica, KKN, Árboles de decisión y Random Forest
+#2. Supervised Learning: Performed data analysis using supervised learning classification techniques, including Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, and Random Forest. Evaluated model performance through accuracy, precision, and recall metrics.
 
-#3.Aprendizaje_No_Supervisado: Aplicación de la técnica de reducción de dimensionalidad PCA (Principal Component Analysis). Comparación con módelo de Regresión Logística (Aprendizaje Supervisado) utilizando todas las características y luego con las reducidas (tras EDA).
+#3. Unsupervised Learning: Applied Principal Component Analysis (PCA) for dimensionality reduction to enhance model performance. Compared the results of a Logistic Regression model (supervised learning) using both the full feature set and the reduced features after performing EDA.
 
-#4.Redes_Neuronales: Aplicación de redes neuronales para clasificación binaria utilizando Keras. Se definieron modelos con capas densas, optimización con Adam y RMSprop, y evaluación de métricas como precisión, AUC y pérdida.
+#4. Neural Networks: Built and trained a neural network for binary classification using Keras. Developed models with dense layers, optimized with Adam and RMSprop, and assessed performance using accuracy, AUC, and loss metrics.
 
-#5.Deep_Learning_Computer_Vision: Aplicación de un modelo de Deep Learning para predecir la clasificación de imágenes de gatos y perros mediante Computer Vision. Se usó ImageDataGenerator para aumentar las imágenes, y un modelo CNN basado en Transfer Learning con MobileNetV2 para realizar la clasificación en dos clases.
+#5. Deep Learning for Computer Vision: Implemented a deep learning model for classifying images of cats and dogs using computer vision techniques. Utilized ImageDataGenerator for image augmentation and employed a Convolutional Neural Network (CNN) model based on Transfer Learning with MobileNetV2 for accurate binary classification.
